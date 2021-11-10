@@ -149,11 +149,9 @@ func TestCurrencyCodeByXmlIsoFile(t *testing.T) {
 				}
 			})
 
-
 		}
 	}
 }
-
 
 const (
 	urlIsoCurrency = "https://www.six-group.com/dam/download/financial-information/data-center/iso-currrency/amendments/lists/list_one.xml"
