@@ -1,3 +1,3 @@
-module github.com/Stocco/go-money
+module github.com/pismo/go-money
 
 go 1.13
