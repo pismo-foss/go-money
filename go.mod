@@ -1,3 +1,3 @@
-module github.com/pismo/go-money
+module github.com/pismo-foss/go-money
 
 go 1.13
