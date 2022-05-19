@@ -196,4 +196,5 @@ const (
 	XXX = "XXX"
 	XPD = "XPD"
 	XPT = "XPT"
+	SLE = "SLE"
 )
