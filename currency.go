@@ -205,6 +205,7 @@ var (
 		UYI: {Decimal: ".", Thousand: ",", Code: UYI, Fraction: 0, NumericCode: "940", Grapheme: "0", Template: "$1"},
 		UYW: {Decimal: ".", Thousand: ",", Code: UYW, Fraction: 4, NumericCode: "927", Grapheme: "0", Template: "$1"},
 		VES: {Decimal: ".", Thousand: ",", Code: VES, Fraction: 2, NumericCode: "928", Grapheme: "0", Template: "$1"},
+		SLE: {Decimal: ".", Thousand: ",", Code: SLE, Fraction: 2, NumericCode: "925", Grapheme: "0", Template: "$1"},
 		VED: {Decimal: ".", Thousand: ",", Code: VED, Fraction: 2, NumericCode: "926", Grapheme: "0", Template: "$1"},
 		ZWL: {Decimal: ".", Thousand: ",", Code: ZWL, Fraction: 2, NumericCode: "932", Grapheme: "Z$", Template: "$1"},
 		ZWD: {Decimal: ".", Thousand: ",", Code: ZWD, Fraction: 2, NumericCode: "932", Grapheme: "0", Template: "$1"},
